@@ -1,0 +1,44 @@
+{
+  "name": "voltzplay",
+  "title": "VoltzPlay!",
+  "gameVersion": "1.7.10",
+  "launch": {
+    "flags": [
+      "-Dfml.ignoreInvalidMinecraftCertificates=true"
+    ]
+  },
+  "userFiles": {
+    "include": [
+      "options.txt"
+    ]
+  },
+  "features": [
+    {
+      "properties": {
+	    "name": "NotEnoughItems",
+		"description": "NotEnoughItems gives you recipe lookup abilities in-game.",
+		"recommendation": "starred",
+		"selected": true
+      },
+      "files": {
+        "include": [
+		  "mods/CodeChickenCore*",
+          "mods/NotEnoughItems*"
+        ]
+      }
+    },
+    {
+      "properties": {
+        "name": "Opis",
+        "description": "Opis is a server profiler, you need to have permission on the server to use this.",
+        "selected": false
+      },
+      "files": {
+        "include": [
+		  "mods/MobiusCore*",
+          "mods/Opis*"
+        ]
+      }
+    }
+  ]
+}
