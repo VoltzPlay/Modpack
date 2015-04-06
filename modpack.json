@@ -23,7 +23,9 @@
       "files": {
         "include": [
 		  "mods/CodeChickenCore*",
-          "mods/NotEnoughItems*"
+          "mods/NotEnoughItems*",
+		  "mods/Waila*",
+		  "config/Waila.cfg"
         ]
       }
     },
