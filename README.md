@@ -1,1 +1,1 @@
-# VoltzPlayPack
+# VoltzPlay! Modpack
