@@ -1,0 +1,8 @@
+{
+  "feature": {
+    "name": "WorldEditCUI Forge Edition",
+    "description": "This mod provides a client-side user interface for the WorldEdit plugin allowing you to see your selected region in-game in real time. It allows you to work more quickly and accurately with your WorldEdit selection and is especially useful when working with Polygon, Convex Hull and Cylinder selections.",
+    "recommendation": "starred",
+    "selected": false
+  }
+}
