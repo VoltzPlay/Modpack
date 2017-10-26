@@ -1,7 +1,7 @@
 {
-  "name": "voltzplay",
-  "title": "VoltzPlay!",
-  "gameVersion": "1.7.10",
+  "name": "voltzplay_1.12.2",
+  "title": "VoltzPlay! (1.12.2)",
+  "gameVersion": "1.12.2",
   "launch": {
     "flags": [
       "-Dfml.ignoreInvalidMinecraftCertificates=true"
@@ -15,29 +15,16 @@
   "features": [
     {
       "properties": {
-	    "name": "NotEnoughItems",
-		"description": "NotEnoughItems gives you recipe lookup abilities in-game.",
-		"recommendation": "starred",
-		"selected": true
+	"name": "JustEnoughItems",
+	"description": "JustEnoughItems gives you recipe lookup abilities in-game.",
+	"recommendation": "starred",
+	"selected": true
       },
       "files": {
-        "include": [
-          "mods/NotEnoughItems*",
-		  "mods/Waila*",
-		  "config/Waila.cfg"
-        ]
-      }
-    },
-    {
-      "properties": {
-        "name": "Opis",
-        "description": "Opis is a server profiler, you need to have permission on the server to use this.",
-        "selected": false
-      },
-      "files": {
-        "include": [
-		  "mods/MobiusCore*",
-          "mods/Opis*"
+	"include": [
+	  "mods/JustEnoughItems*",
+	  "mods/Waila*",
+	  "config/Waila.cfg"
         ]
       }
     }

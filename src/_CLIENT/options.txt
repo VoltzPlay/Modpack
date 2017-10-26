@@ -1,1 +1,1 @@
-resourcePacks:["faithful32packOptiFine.zip"]
+resourcePacks:["Faithful 1.12.2-rv4.zip"]
