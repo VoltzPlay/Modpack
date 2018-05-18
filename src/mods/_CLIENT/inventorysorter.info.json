@@ -1,0 +1,8 @@
+{
+  "feature": {
+    "name": "Inventory Sorter",
+    "description": "Inventory Sorter gives you inventory sorting.",
+    "recommendation": "starred",
+    "selected": true
+  }
+}

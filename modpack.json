@@ -15,16 +15,16 @@
   "features": [
     {
       "properties": {
-	"name": "JustEnoughItems",
-	"description": "JustEnoughItems gives you recipe lookup abilities in-game.",
-	"recommendation": "starred",
-	"selected": true
+		"name": "JustEnoughItems",
+		"description": "JustEnoughItems gives you recipe lookup abilities in-game.",
+		"recommendation": "starred",
+		"selected": true
       },
       "files": {
-	"include": [
-	  "mods/JustEnoughItems*",
-	  "mods/Waila*",
-	  "config/Waila.cfg"
+		"include": [
+		  "mods/JustEnoughItems*",
+		  "mods/Waila*",
+		  "config/Waila.cfg"
         ]
       }
     }
