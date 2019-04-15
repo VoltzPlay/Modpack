@@ -1,0 +1,8 @@
+{
+  "feature": {
+    "name": "AmbientSounds",
+    "description": "AmbientSounds smooths ambient sounds.",
+    "recommendation": "starred",
+    "selected": true
+  }
+}
